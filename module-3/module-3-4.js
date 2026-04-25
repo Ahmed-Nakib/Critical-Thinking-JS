@@ -43,4 +43,4 @@ queue.enqueue(40);
 queue.enqueue(50);
 
 queue.dequeue()
-queue.print();
+queue.print(); 
